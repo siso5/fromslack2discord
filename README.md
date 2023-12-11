@@ -9,7 +9,7 @@ npm start
 ```
 
 ## Config
-You have to set the following values in discord2slack.js
+You have to set the following values in slack2discord.js
 ```javascript
 DISCORD_CHANNEL="****"
 DISCORD_CHANNEL_ID="*******************"
