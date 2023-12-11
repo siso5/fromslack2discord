@@ -2,7 +2,7 @@
 
 ## Install
 ```sh
-git clone https://github.com/siso5/fromslack2discord&& cd discord2slack
+git clone https://github.com/siso5/fromslack2discord&& cd fromslack2discord
 npm install
 # Configure your stuff (see Config section)
 npm start
