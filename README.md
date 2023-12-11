@@ -1,4 +1,4 @@
-# fromslacl2fdiscord (2023.12.10)
+# fromslack2discord (2023.12.10)
 
 ## Install
 ```sh
