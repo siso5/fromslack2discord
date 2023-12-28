@@ -28,6 +28,12 @@ slackへ送られてきたテキスト(markdown対応)通知をdiscordにその�
 
 - 添付ファイルや画像は転送できません。ご注意ください。
 
+# 事前準備
+- Discord botのapp tokenなどを事前に取得しておく必要があります。
+- Slack botのapp tokenなどを事前に取得しておく必要があります。
+
+※各botの作り方などは今回は解説しないので、各自調べてください。
+
 # 導入方法
 まず、fromslack2discord/src/env.exampleを参考に.env（環境変数）を設定してください。
 ※ PORTについては、事前にport3000をプログラム上では指定していますが、環境変数(src/.env)に書いたほうが優先されます。
