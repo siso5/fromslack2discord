@@ -1,9 +1,10 @@
 # fromslack2discord (2023.12.10)
 
-Japanese README.ver 
-[README_ja.md](README_ja.md)
-English README.ver
-[README.md](README.md)
+>Japanese README.ver 
+>[README_ja.md](README_ja.md)
+
+>English README.ver
+>[README.md](README.md)
 
 
 # Overview
