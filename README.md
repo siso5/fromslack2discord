@@ -25,6 +25,12 @@ You can send markdown-formatted messages from Slack directly to Discord.
 URLs, messages, and emojis are supported.
 Please note that attachments and images cannot be transferred.
 
+# Preliminary Preparation
+- You need to obtain the app token for the Discord bot in advance.
+- You also need to obtain the app token for the Slack bot in advance.
+
+*The creation of each bot is not covered in this guide, so please research this on your own.
+
 
 # Installation
 
