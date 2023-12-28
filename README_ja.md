@@ -32,9 +32,6 @@ slackへ送られてきたテキスト(markdown対応)通知をdiscordにその�
 まず、fromslack2discord/src/env.exampleを参考に.env（環境変数）を設定してください。
 ※ PORTについては、事前にport3000をプログラム上では指定していますが、環境変数(src/.env)に書いたほうが優先されます。
 
-# 事前準備
-
-
 ### Config(.env)
 ```javascript
 DISCORD_CHANNEL="****"
