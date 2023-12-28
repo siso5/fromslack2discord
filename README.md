@@ -24,12 +24,12 @@ Multiple users can be set for this permission.
 You can send markdown-formatted messages from Slack directly to Discord.
 URLs, messages, and emojis are supported.
 Please note that attachments and images cannot be transferred.
-Installation
+
+
+# Installation
 
 - First, set up your .env (environment variables) referring to fromslack2discord/src/env.example.
-
-- Regarding PORT, although port 3000 is specified in the program, the one written in the environment variables (src/.env) takes precedence.
-Preliminary Preparation
+*Regarding PORT, although port 3000 is specified in the program, the one written in the environment variables (src/.env) takes precedence.
 
 - Config(.env)
 ```javascript
