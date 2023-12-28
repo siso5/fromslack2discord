@@ -10,8 +10,7 @@
 # Overview
 
 ```
-I created this because I found it inconvenient to use software that only sends notifications to Slack notifications. 
-Simply put, this program forwards text (markdown supported) notifications sent to Slack, directly to Discord.
+The software I'm using only has the function to send notifications to Slack, which I found inconvenient, so I created this program. To succinctly describe what this program does: it takes text notifications (supports markdown) sent to Slack and forwards them directly to Discord.
 
 ```
 
