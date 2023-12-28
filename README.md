@@ -72,7 +72,7 @@ pm2 startup
 pm2 save
 ```
 *For more details, please visit this
-URL: [https://pm2.keymetrics.io/docs/usage/startup/#command](https://pm2.keymetrics.io/docs/usage/startup/#command)
+> URL: [https://pm2.keymetrics.io/docs/usage/startup/#command](https://pm2.keymetrics.io/docs/usage/startup/#command)
 
 # Update History
  
