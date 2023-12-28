@@ -19,10 +19,10 @@ The software I'm using only has the function to send notifications to Slack, whi
 - If the same message is sent more than once by the same user (e.g., notifications for repeated edits and publications), it will not be sent again for 10 minutes.
 - The transfer from Slack to Discord is limited to one specific channel of your choice.
 - Only the statements of users listed in the environment ※ variables can be transferred.
-Multiple users can be set for this permission.
-You can send markdown-formatted messages from Slack directly to Discord.
-URLs, messages, and emojis are supported.
-Please note that attachments and images cannot be transferred.
+*==Multiple users can be set for this permission.==
+- You can send markdown-formatted messages from Slack directly to Discord.
+- URLs, messages, and emojis are supported.
+- Please note that attachments and images cannot be transferred.
 
 # Preliminary Preparation
 - You need to obtain the app token for the Discord bot in advance.
